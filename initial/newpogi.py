@@ -15,7 +15,7 @@ pangalan = raw_input('You: Ako si ')
 print "Computer: Ahhh.. " + pangalan + " pala pangalan mo."
 
 # Ask age 
-print "Computer: Edi wow... So teka ilang taon ka na?"
+print "Computer: Edi wow... So teka " + pangalan + " ilang taon ka na?"
 age = input('You: ')
 # Process age and generate response simple if else logic
 if age >= 18:
@@ -60,4 +60,10 @@ agediff = abs(myage - realage)
 if agediff == 0:
     print "Computer: Magkaedad pala tayo nu hahaha akalain mo yun"
 else:
-    print "Computer: " + str(agediff) + " years pala yung agwat natin" 
+    print "Computer: " + str(agediff) + " years pala yung agwat natin " + edad + " years old ka di ba :)"
+    
+print "Computer: Saan naman yung favorite na lugar mo sa " + lugar + "?"
+favlugar = raw_input('You: ')
+print "Computer: Ahhh.. anung meron dun sa " + favlugar + " at paborito mo yon?"
+favelugarwhy = raw_input("You: ")
+
