@@ -1,3 +1,7 @@
+# ASK.py
+# Python2
+# Andresito de Guzman
+
 #Ask how many f*cks do I give?
 
 progtitle = "Sample Code"

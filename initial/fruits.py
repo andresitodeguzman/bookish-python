@@ -1,7 +1,11 @@
+# Fruits.py
+# Python2
+# Andresito de Guzman
+
+
 import sys
 import os
 import math
-import sqlite3
 
 ##
 

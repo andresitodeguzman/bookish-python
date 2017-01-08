@@ -1,3 +1,7 @@
+# NewPogi.py
+# Python2
+# Andresito de Guzman
+
 apptitle = "\n\nAkala mo may itsura ka?"
 appcreate = "April 2016"
 appseparate = "========================"
@@ -66,4 +70,3 @@ print "Computer: Saan naman yung favorite na lugar mo sa " + lugar + "?"
 favlugar = raw_input('You: ')
 print "Computer: Ahhh.. anung meron dun sa " + favlugar + " at paborito mo yon?"
 favelugarwhy = raw_input("You: ")
-
