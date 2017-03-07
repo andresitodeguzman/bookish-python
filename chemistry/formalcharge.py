@@ -11,6 +11,7 @@ def formalCharge(valence, nonbonding, bonding):
     b = int(bonding)
     compute = int(v-n-((1/2)*b))
     return compute
+
 while True:
     try:
         valence = input("Valence Electrons: ")
